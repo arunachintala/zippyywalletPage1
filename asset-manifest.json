@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/zippyywalletPage1/static/css/main.30036ecf.css",
-    "main.js": "/zippyywalletPage1/static/js/main.2c1f7483.js",
+    "main.js": "/zippyywalletPage1/static/js/main.0fdac361.js",
     "static/js/453.6159162a.chunk.js": "/zippyywalletPage1/static/js/453.6159162a.chunk.js",
     "static/media/card1.svg": "/zippyywalletPage1/static/media/card1.c5883ab79a5138f608799678faa28909.svg",
     "static/media/Intersect (1).svg": "/zippyywalletPage1/static/media/Intersect (1).e13271457258defdac98421d7f6f6b38.svg",
@@ -24,11 +24,11 @@
     "static/media/star.svg": "/zippyywalletPage1/static/media/star.39599d7d25f5eefa7d02941e9e5ae4f7.svg",
     "static/media/divider.svg": "/zippyywalletPage1/static/media/divider.10e62f8f0656511fdb828a3c089f2500.svg",
     "main.30036ecf.css.map": "/zippyywalletPage1/static/css/main.30036ecf.css.map",
-    "main.2c1f7483.js.map": "/zippyywalletPage1/static/js/main.2c1f7483.js.map",
+    "main.0fdac361.js.map": "/zippyywalletPage1/static/js/main.0fdac361.js.map",
     "453.6159162a.chunk.js.map": "/zippyywalletPage1/static/js/453.6159162a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.30036ecf.css",
-    "static/js/main.2c1f7483.js"
+    "static/js/main.0fdac361.js"
   ]
 }
