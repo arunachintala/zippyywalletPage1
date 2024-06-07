@@ -35,7 +35,7 @@ function AvailableBalance() {
                         <img style={{ paddingLeft: '50px' }} src={plus} alt="nologo"></img>
                     </div>
                     <div>
-                        <img src={tri} alt="nologo"></img>
+                        <img style={{ paddingRight: '20px' }} src={tri} alt="nologo"></img>
                     </div>
                     <div style={{ display: 'flex', alignItems: 'center' }}>
                         <img src={star} alt="nologo"></img>
