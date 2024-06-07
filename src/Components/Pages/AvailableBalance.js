@@ -42,8 +42,8 @@ function AvailableBalance() {
                     <div style={{ display: 'flex', alignItems: 'center' }}>
                         <img src={star} alt="nologo"></img>
                     </div>
-                    <div >
-                        <img src={card1} alt="no logo"></img>
+                    <div>
+                        <img style={{ paddingRight: '20px' }} src={card1} alt="no logo"></img>
                     </div>
                 </div>
                 <div style={{ border: '1px solid #D9D9D9', marginTop: '5%', padding: '5%', borderRadius: '16px', backgroundColor: '#FFFFFF' }}>
