@@ -21,7 +21,7 @@ function App() {
             </p>
 
 
-            <div style={{ display: 'flex', flexDirection: 'row', backgroundColor: '#F5F8F8', margin: '0 30px', padding: '20px' }}>
+            <div style={{ display: 'flex', flexDirection: 'row', backgroundColor: '#F5F8F8', margin: '0 30px', padding: '5px' }}>
               <AvailableBalance />
               <WalletSettings />
             </div>

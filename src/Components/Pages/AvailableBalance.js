@@ -10,16 +10,17 @@ function AvailableBalance() {
     const [amount, setAmount] = useState('Enter amount');
 
     return (
-        <div style={{ display: 'flex', flexDirection: 'row', width: '48%' }}>
+        <div style={{ display: 'flex', flexDirection: 'row', width: '50%' }}>
             <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'flex-start', width: '100%' }}>
                 <div style={{ display: 'flex', flexDirection: 'row', border: '1px solid #D9D9D9', borderRadius: '16px', justifyContent: 'space-between', paddingLeft: '5%', paddingTop: '1%', backgroundColor: '#FFFFFF' }}>
-                    <div style={{ textAlign: 'left', flexDirection: 'column' }}>
+                    <div style={{ flexDirection: 'column', justifyContent: 'center', textAlign: 'center', paddingTop: '5%' }}>
                         <p style={{
                             color: '#4C7A34',
                             fontWeight: 600,
                             fontSize: '32px',
                             lineHeight: '48px',
-                            marginLeft: '35px',
+                            padding: '0',
+                            margin: '0',
                         }}>
                             220$
                         </p>
@@ -28,11 +29,12 @@ function AvailableBalance() {
                             fontWeight: '400',
                             fontSize: '18px',
                             lineHeight: '27px',
-
+                            padding: '0',
+                            margin: '0',
                         }}>
                             Available Balance
                         </p>
-                        <img style={{ paddingLeft: '50px' }} src={plus} alt="nologo"></img>
+                        <img style={{}} src={plus} alt="nologo"></img>
                     </div>
                     <div>
                         <img style={{ paddingRight: '20px' }} src={tri} alt="nologo"></img>
