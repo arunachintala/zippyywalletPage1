@@ -34,7 +34,7 @@ function AvailableBalance() {
                         }}>
                             Available Balance
                         </p>
-                        <img style={{}} src={plus} alt="nologo"></img>
+                        <img src={plus} alt="nologo"></img>
                     </div>
                     <div>
                         <img style={{ paddingRight: '20px' }} src={tri} alt="nologo"></img>
@@ -42,7 +42,7 @@ function AvailableBalance() {
                     <div style={{ display: 'flex', alignItems: 'center' }}>
                         <img src={star} alt="nologo"></img>
                     </div>
-                    <div style={{ display: 'flex', marginRight: '30px' }}>
+                    <div >
                         <img src={card1} alt="no logo"></img>
                     </div>
                 </div>
